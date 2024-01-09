@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasudevap
 - 👀 I’m s full stack developer
-- 💞️ Checkout my work in repo 'portfolio'
+- 💞️ Checkout my work examples here
 - 📫 Reach me prashant.vasudeva@gmail.com
 
 <!---
