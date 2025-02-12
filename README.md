@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasudevap
-- 👀 I’m s full stack developer
+- 👀 I’m a full stack developer, a computer engineer, and entrepreneur
 - 💞️ Checkout my work examples here
 - 📫 Reach me prashant.vasudeva@gmail.com
 
